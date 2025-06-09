@@ -11,14 +11,27 @@ This repository provides a **universal structure** for software documentation. I
 
 This template includes structured guidance for:
 
-- Project Overview
-- Installation Instructions
-- Usage Examples
-- API Documentation
-- Architecture Diagrams
-- Contribution Guidelines
-- Licensing
-- Changelog Management
+- [API Design](docs/api-design.md)
+- [Architecture Diagrams](docs/architecture-diagrams.md)
+- [Backend Architecture](docs/backend-architecture.md)
+- [Backend Implementation](docs/backend-implementation.md)
+- [Coding Standards](docs/coding-standards.md)
+- [Deployment Guide](docs/deployment-guide.md)
+- [Design System](docs/design-system.md)
+- [Development Guidelines](docs/development-guidelines.md)
+- [Domain Driven Design](docs/domain-driven-design.md)
+- [Event Sourcing](docs/event-sourcing.md)
+- [Event Storming Plan](docs/event-storming-plan.md)
+- [Frontend Architecture](docs/frontend-architecture.md)
+- [Frontend Components](docs/frontend-components.md)
+- [Frontend Development](docs/frontend-development.md)
+- [Frontend Implementation](docs/frontend-implementation.md)
+- [Performance Optimization](docs/performance-optimization.md)
+- [Projection Rebuilding](docs/projection-rebuilding.md)
+- [Reverb Integration](docs/reverb-integration.md)
+- [Testing Strategy](docs/testing-strategy.md)
+- [Troubleshooting](docs/troubleshooting.md)
+- ... more
 
 ## 🛠 How to Use
 
